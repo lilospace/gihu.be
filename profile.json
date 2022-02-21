@@ -1,0 +1,55 @@
+{
+  "title": "Senior front-end",
+  "cover": "https://i.pinimg.com/originals/ce/1b/ce/ce1bceba1d766fd87fe4ac28c5c985ea.png",
+  "languages": [
+    "Português",
+    "Inglês"
+  ],
+  "experience": [
+    {
+      "company_name": "GFT",
+      "occupation": "Senior Front end",
+      "stack": [
+        "Angular",
+        "AWS",
+        "C#"
+      ],
+      "company_image": "https://mollicait.com/wp-content/uploads/2021/04/300-gft.png",
+      "duration": "1 years"
+    },
+    {
+      "company_name": "NVGO",
+      "occupation": "Product Manager",
+      "stack": [
+        "Metrics",
+        "Discover",
+        "Scrum",
+        "Delivery"
+      ],
+      "company_image": "",
+      "duration": "1 years"
+    },
+    {
+      "company_name": "TOTVS",
+      "occupation": "Senior front-end",
+      "stack": [
+        "AWS",
+        "Angular",
+        "C#"
+      ],
+      "duration": "5 years"
+    }
+  ],
+  "education": [
+    {
+      "logo": "https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg",
+      "institution": "IGTI",
+      "occupation": "MBA Design de Interação"
+    },
+    {
+      "logo": "https://www.unijorge.edu.br/wp-content/themes/unijorge/dist/images/header_logo.svg",
+      "institution": "UNIJORGE",
+      "occupation": "Curso superior de Engenharia de Software"
+    }
+  ]
+}
